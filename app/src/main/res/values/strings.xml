@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news available.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection. Please check your internet connection.</string>
+</resources>
